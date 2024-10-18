@@ -115,6 +115,10 @@ https://github.com/user-attachments/assets/8d937b10-3468-4115-b5aa-e48e997604d6
 
 
 
+## Data Model
+
+![Database ER diagram (crow's foot)](https://github.com/user-attachments/assets/9eed5bb8-17cb-43dc-b38a-8f0d73b76b2c)
+
 
 ## Contributing
 
